@@ -24,10 +24,12 @@ Back-End Integration: The system employs a robust Database Management System (DB
 
 Software Engineering Principles: Our development process adheres to software engineering principles. This involves a comprehensive analysis of user needs, meticulous design, development, deployment, and thorough testing to guarantee a reliable and stable application.
 
+
 **Sequence Diagram:**
 ![image](https://github.com/DhanaSree999/Online_Student_Course_Registration_System/assets/110033766/250abd0d-671f-4ecc-9421-55377dab0f89)
 
 **Use Case Diagram:**
+
 ![image](https://github.com/DhanaSree999/Online_Student_Course_Registration_System/assets/110033766/24471eb4-7e80-4e40-ac04-4a9a5a1bc40e)
 
 **OUTPUT:**
@@ -36,6 +38,7 @@ Software Engineering Principles: Our development process adheres to software eng
 ![image](https://github.com/DhanaSree999/Online_Student_Course_Registration_System/assets/110033766/df096e12-d850-495c-8687-b52d4f71c452)
 
 ![image](https://github.com/DhanaSree999/Online_Student_Course_Registration_System/assets/110033766/2d0f42d8-5baa-47d6-bcbc-80eb27d7fd5c)
+
 
 In essence, our Online Student Course Registration System is not just a registration tool but a comprehensive solution that incorporates user-centric design, efficient functionality, and a commitment to providing a positive and productive learning experience.
 
