@@ -6,7 +6,7 @@ The front-end, designed with HTML and CSS, boasts an intuitive and visually appe
 
 The system's responsive design ensures accessibility across various devices, facilitating a flexible and convenient registration experience for students.With its blend of Python's robust functionality and HTML/CSS's dynamic interface, we've created a platform that not only meets but exceeds the evolving needs of students and academic institutions alike.
 
-User Requirements:
+**User Requirements:**
 
 Efficient Course Registration: Our system minimizes manual efforts, providing students with a swift and user-friendly interface for course registration.
 
@@ -17,21 +17,20 @@ User-Friendly Design: The application is designed with simplicity in mind, ensur
 Feedback Mechanism: We understand the importance of student feedback. Therefore, a dedicated feedback form is incorporated, allowing students to share their thoughts and experiences, contributing to continuous improvement.
 
 
-System Requirements:
-
+**System Requirements:**
 Front End Development: The user interface is built using a combination of Python for logic and HTML for the presentation layer. This ensures a seamless and visually appealing experience for users.
 
 Back-End Integration: The system employs a robust Database Management System (DBMS) to efficiently store and manage student and course data, ensuring data integrity and accessibility.
 
 Software Engineering Principles: Our development process adheres to software engineering principles. This involves a comprehensive analysis of user needs, meticulous design, development, deployment, and thorough testing to guarantee a reliable and stable application.
 
-Sequence Diagram:
+**Sequence Diagram:**
 ![image](https://github.com/DhanaSree999/Online_Student_Course_Registration_System/assets/110033766/250abd0d-671f-4ecc-9421-55377dab0f89)
 
-Use Case Diagram:
+**Use Case Diagram:**
 ![image](https://github.com/DhanaSree999/Online_Student_Course_Registration_System/assets/110033766/24471eb4-7e80-4e40-ac04-4a9a5a1bc40e)
 
-OUTPUT:
+**OUTPUT:**
 ![image](https://github.com/DhanaSree999/Online_Student_Course_Registration_System/assets/110033766/f820801b-b453-4d48-99fe-cbca563f1f1c)
 
 ![image](https://github.com/DhanaSree999/Online_Student_Course_Registration_System/assets/110033766/df096e12-d850-495c-8687-b52d4f71c452)
