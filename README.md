@@ -18,6 +18,7 @@ Feedback Mechanism: We understand the importance of student feedback. Therefore,
 
 
 **SYSTEM REQUIREMENTS:**
+
 Front End Development: The user interface is built using a combination of Python for logic and HTML for the presentation layer. This ensures a seamless and visually appealing experience for users.
 
 Back-End Integration: The system employs a robust Database Management System (DBMS) to efficiently store and manage student and course data, ensuring data integrity and accessibility.
